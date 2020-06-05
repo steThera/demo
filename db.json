@@ -1,18 +1,11 @@
 {
-  "inBody": {
-  "Name": "Jane Doe",
-"id": "NewUserID",
-"Height": "175",
-"DateofBirth": "1986-07-22",
-"Gender": "M",
-"Age": "40",
-"MobileNumber": "0123456789",
-"TestDate/Time": "20161024180629",
-"Weight": "85",
-"TBW(TotalBodyWater)": "39",
-"BFM(BodyFatMass)": "33",
-"FFM(FatFreeMass)": "53",
-"BMI(BodyMassIndex)": "28",
-"SMM(SkeletalMuscleMass)": "28"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
