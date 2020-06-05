@@ -1,7 +1,7 @@
 {
   "inBody": {
   "Name": "Jane Doe",
-"ID": "NewUserID",
+"id": "NewUserID",
 "Height": "175",
 "DateofBirth": "1986-07-22",
 "Gender": "M",
